@@ -26,6 +26,7 @@ Block:
 TraceCode.start(FooClass, BarClass, ..., color: :dark) do
   # method call
 end
+```
 
 Method:
 
